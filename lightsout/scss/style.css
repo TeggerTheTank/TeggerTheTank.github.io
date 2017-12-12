@@ -1,0 +1,421 @@
+#box1A {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box2A {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box3A {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box4A {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box5A {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box1B {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box2B {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box3B {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box4B {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box5B {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box1C {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box2C {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box3C {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box4C {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box5C {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box1D {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box2D {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box3D {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box4D {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box5D {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box1E {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box2E {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box3E {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box4E {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+#box5E {
+  width: 80px;
+  height: 80px;
+  border: solid;
+  border-color: brown;
+  background-color: yellow;
+  float: left; }
+
+/* Scss Document */
+/*variables*/
+/*settings*/
+body {
+  background-color: #18121e;
+  color: #D3D3D3; }
+
+/*footer*/
+html, body {
+  height: 100%; }
+
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto 30px;
+  padding: 0 0 100px; }
+
+.footer {
+  padding-top: 15px;
+  background-color: #32253e;
+  font-size: 12px;
+  height: 150px; }
+
+.footer img {
+  width: 40px;
+  padding-right: 10px;
+  padding-top: 10px;
+  float: inherit; }
+
+#date {
+  padding-top: 50px; }
+
+#image {
+  background-color: #4C4455; }
+
+.title {
+  font-size: 30px;
+  padding-top: 5px;
+  padding-right: 30px; }
+
+#submit {
+  margin-left: 140px; }
+
+.bubble {
+  padding-right: 30px; }
+
+form {
+  margin: 20px auto;
+  border: none; }
+
+label {
+  float: left;
+  width: 10em;
+  text-align: right;
+  padding-right: 10px; }
+
+legend {
+  color: #D3D3D3; }
+
+textarea {
+  float: left;
+  text-align: left;
+  min-height: 80px;
+  min-width: 220px;
+  margin-left: 100px; }
+
+#buttons button {
+  width: 7em; }
+
+input {
+  color: black; }
+
+textarea {
+  color: black; }
+
+span {
+  color: lightgreen;
+  font-size: 87.5%;
+  margin-left: .5em; }
+
+#note {
+  color: #666666;
+  font-size: 12px;
+  margin: 0 auto;
+  padding: 4px;
+  text-align: center;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
+  width: 400px; }
+
+.card {
+  padding-left: 30px; }
+
+.card img {
+  width: 100px;
+  padding-top: 20px; }
+
+.carousel-inner {
+  width: 400px; }
+
+.main_image {
+  max-width: 100px;
+  max-height: 150px;
+  padding-bottom: 10px;
+  padding-top: 20px; }
+
+#myCarousel {
+  width: 400px; }
+
+.jumbotron {
+  background-color: #251c2e;
+  text-align: center; }
+  .jumbotron img {
+    width: 450px;
+    height: 450px; }
+  .jumbotron p {
+    font-size: 18px; }
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table; }
+
+[class*="col-"] {
+  float: left;
+  padding: 15px; }
+
+/*column*/
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  .col-m-1 {
+    width: 8.33%; }
+
+  .col-m-2 {
+    width: 16.66%; }
+
+  .col-m-3 {
+    width: 25%; }
+
+  .col-m-4 {
+    width: 33.33%; }
+
+  .col-m-5 {
+    width: 41.66%; }
+
+  .col-m-6 {
+    width: 50%; }
+
+  .col-m-7 {
+    width: 58.33%; }
+
+  .col-m-8 {
+    width: 66.66%; }
+
+  .col-m-9 {
+    width: 75%; }
+
+  .col-m-10 {
+    width: 83.33%; }
+
+  .col-m-11 {
+    width: 91.66%; }
+
+  .col-m-12 {
+    width: 100%; } }
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .col-1 {
+    width: 8.33%; }
+
+  .col-2 {
+    width: 16.66%; }
+
+  .col-3 {
+    width: 25%; }
+
+  .col-4 {
+    width: 33.33%; }
+
+  .col-5 {
+    width: 41.66%; }
+
+  .col-6 {
+    width: 50%; }
+
+  .col-7 {
+    width: 58.33%; }
+
+  .col-8 {
+    width: 66.66%; }
+
+  .col-9 {
+    width: 75%; }
+
+  .col-10 {
+    width: 83.33%; }
+
+  .col-11 {
+    width: 91.66%; }
+
+  .col-12 {
+    width: 100%; } }
+button.accordion {
+  background-color: #4b385e;
+  color: #D3D3D3;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: center;
+  border: none;
+  outline: none;
+  transition: 0.4s; }
+
+button.accordion.active, button.accordion:hover {
+  background-color: #251c2e; }
+
+div.panel {
+  padding: 0 18px;
+  background-color: #32253e;
+  display: none;
+  height: 100%; }

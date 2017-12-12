@@ -1,0 +1,28 @@
+{ "speakers" : [
+  {
+    "name":"Beardie",
+    "shortname":"Beardie"
+    
+  },
+  {
+    "name":"Dolphin",
+    "shortname":"Dolphin"
+
+  },
+  {
+    "name":"Rooster",
+    "shortname":"Rooster"
+	  
+  },
+  {
+    "name":"Panda",
+    "shortname":"Panda"
+	  
+  },
+  {
+    "name":"Lioness",
+    "shortname":"Lioness"
+	  
+  }
+  
+]}
